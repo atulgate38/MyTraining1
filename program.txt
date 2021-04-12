@@ -1,0 +1,2 @@
+welcome to .net training session
+This is the Devops training session.
